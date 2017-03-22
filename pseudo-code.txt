@@ -1,0 +1,10 @@
+	
+          Demander à l'utilisateur son âge, lui retourner sont année de naissance.
+	
+
+DEBUT			
+  ECRIRE AGE		{l’utilisateur entre son âge}
+     LIRE AGE	                 	{la machine lit l’âge}
+       CALCULER ANNÉE DE NAISSANCE	     {la machine calcule l’année de naissance}
+	  ENVOYER RESULTAT                       {la machine renvoie le résultat}
+	    FIN
